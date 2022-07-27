@@ -1,0 +1,2 @@
+xpath_arrow=//*[contains(@class,'search3__button-svg')]
+css_arrow=svg[class='search3__button-svg']
